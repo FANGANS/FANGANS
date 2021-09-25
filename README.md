@@ -7,6 +7,7 @@
 - Nama  : Pox•Emon
 - Hobi    : Belajar Termos biar jadi mastod 
 - Saya Tidak Senang Mengenal Anda
+- Dan Gua ganteng ga kek lu 
 
 ------
 
