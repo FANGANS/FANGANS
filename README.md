@@ -32,4 +32,4 @@
  
 ### Statistik Repo 
 
-![kartu github](https://github-readme-stats.vercel.app/api/pin/?username=FANGANS&repo=FANGANS&theme=dark)
+![kartu github](https://github-readme-stats.vercel.app/api/pin/?username=FANGANS&repo=PoxEmon&theme=dark)
