@@ -29,6 +29,8 @@
 
 <p align="center"><a href="https://github.com/FANGANS"><img src="https://github-readme-stats.vercel.app/api?username=FANGANS&show_icons=true&theme =radikal"></a></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FANGANS&theme=monokai)
+
 ------    
  
 ### Statistik Repo 
